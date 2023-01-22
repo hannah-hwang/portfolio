@@ -1,118 +1,123 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "Hi, my name is Hannah Hwang and I am a software developer. During the day, I work as a pharmacy technician at an independent pharmacy where I have been working for three years. I came to the realization that in order to continue to support myself financially in the future, I needed to make a career change. I learned about software development through friends who are in the field, and after doing some reseach and learning a bit on my own, I decided to take the step into taking classes at Code Fellows. Since I’ve always loved putting things together and problem-solving, I’m excited to have found something I could enjoy and become passionate about. I plan on utilizing the skills I have learned in my past job experiences as well as the knowledge I have gained at Code Fellows to become a more well-equipped software developer.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "Hi, my name is Hannah Hwang and I am a software developer. During the day, I work as a pharmacy technician at an independent pharmacy where I have been working for three years. I came to the realization that in order to continue to support myself financially in the future, I needed to make a career change. I learned about software development through friends who are in the field, and after doing some reseach and learning a bit on my own, I decided to take the step into taking classes at Code Fellows. Since I’ve always loved putting things together and problem-solving, I’m excited to have found something I could enjoy and become passionate about. I plan on utilizing the skills I have learned in my past job experiences as well as the knowledge I have gained at Code Fellows to become a more well-equipped software developer.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Code 301 Final",
+      "startDate": "2023",
+      "description": "Placeholder for Code 301 final project.",
+      "images": [
+        "https://place-hold.it/500x375/000/fff"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Fruits and Friends",
+      "startDate": "2022",
+      "description": "Group project for Code 201 final. A fun game involving matching and strategy in which players take turns placing tokens on cute game tiles to get the matching sequence needed to win.",
+      "images": [
+        "images/portfolio/fruits-and-friends/fruits-and-friends1.png",
+        "images/portfolio/fruits-and-friends/fruits-and-friends2.png",
+        "images/portfolio/fruits-and-friends/fruits-and-friends3.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookie",
+      "startDate": "2022",
+      "description": "An application where users can input store information to calculate hourly cookie sales, hourly cookie sales, and daily cookie sales.",
+      "images": [
+        "images/portfolio/salmon-cookie/cookiestand1.png",
+        "images/portfolio/salmon-cookie/cookiestand2.png",
+        "images/portfolio/salmon-cookie/cookiestand3.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}

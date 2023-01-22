@@ -75,7 +75,7 @@ class Header extends Component {
                     fontSize: 25,
                     textAlign: "end",
                     marginLeft: "20px",
-                    color: "#353239",
+                    color: "#C4BBD2",
                   }}
                 ></span>
               }
